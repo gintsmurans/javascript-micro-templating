@@ -5,7 +5,7 @@
         "javascript",
         "templating"
     ],
-    "homepage": "https://github.com/gintsmurans/javascript-micro-templating",
+    "homepage": "https://github.com/gintsmurans/jmt",
     "authors": [
         {"name": "Gints Murans", "email": "gm@gm.lv"}
     ],
