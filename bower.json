@@ -1,5 +1,5 @@
 {
-  "name": "javascript-micro-templating",
+  "name": "jmt",
   "version": "1.0",
   "main": "jmt.js",
   "ignore": [

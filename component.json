@@ -1,8 +1,8 @@
 {
-  "name": "javascript-micro-templating",
+  "name": "jmt",
   "version": "1.0",
   "main": "jmt.js",
-  "description": "John Resig's javascript micro templating",
+  "description": "John Resig's javascript micro templating script",
   "files": [
     "jmt.js"
   ],

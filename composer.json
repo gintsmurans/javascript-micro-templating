@@ -1,6 +1,6 @@
 {
-    "name": "4apps/javascript-micro-templating",
-    "description": "John Resig's javascript micro templating",
+    "name": "4apps/jmt",
+    "description": "John Resig's javascript micro templating script",
     "keywords": [
         "javascript",
         "templating"
