@@ -1,6 +1,6 @@
 {
   "name": "jmt",
-  "version": "1.0",
+  "version": "1.0.0",
   "main": "jmt.js",
   "ignore": [
     "component.json",
