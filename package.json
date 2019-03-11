@@ -1,20 +1,21 @@
 {
-  "name": "jmt",
+  "name": "jmt.js",
+  "version": "1.0.0",
   "description": "John Resig's javascript micro templating script",
-  "keywords": [
-    "javascript",
-    "template",
-    "engine"
-  ],
+  "author": {
+    "name": "Gints Murans"
+  },
+  "license": "MIT",
+  "main": "jmt.js",
   "homepage": "https://github.com/gintsmurans/jmt",
   "bugs": "https://github.com/gintsmurans/jmt/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/gintsmurans/jmt.git"
   },
-  "author": {
-    "name": "Gints Murans"
-  },
-  "version": "0.0.2",
-  "main": "jmt.min.js"
+  "keywords": [
+    "javascript",
+    "template",
+    "engine"
+  ]
 }
