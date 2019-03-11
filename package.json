@@ -1,6 +1,6 @@
 {
   "name": "jmt.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An ES6 version of John Resig's javascript micro templating script.",
   "author": {
     "name": "Gints Murans"
